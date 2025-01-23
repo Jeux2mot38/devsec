@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
-        <sonar.projectKey>TEST</sonar.projectKey>
+        <sonar.projectKey>token</sonar.projectKey>
         <sonar.host.url>http://192.168.1.69:9000/</sonar.host.url>
         <sonar.login>sqa_1fe0e4480dc30026c68849f636153aab077c5348</sonar.login>
     </properties>
